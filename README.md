@@ -10,7 +10,8 @@ A cryptarithmetic equation solver using **brute force** algorithm implemented in
 1. Clone this repository to your local directory by navigating to your local directory and typing this line in the command line:
     `git clone "https://github.com/Rexy-Gamaliel/Cryptarithmetic"`
 2. Configure the equation you want to solve in a .txt file with the following format:
-   ```WORDA
+   ```
+   WORDA
    WORDB
    WORDC
    ------

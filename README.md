@@ -22,6 +22,7 @@ A cryptarithmetic equation solver using **brute force** algorithm implemented in
    * The number of dashes in the dash row is irrelevant
    * The equation would be intepreted as **summation** of the *operands* resulting in *result*
    * The input file is **case-sensitive**
+   * The default file to be loaded to the program is `test1.txt`. If you wish to change the file to be loaded, you have to edit this line `with open("../test/test1.txt") as file:` in the program
 3. Go to `/src` folder
 4. Run the python program
 

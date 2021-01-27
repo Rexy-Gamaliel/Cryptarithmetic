@@ -7,7 +7,7 @@ A cryptarithmetic equation solver using **brute force** algorithm implemented in
 * Python3 installed. Please refer to the internet for the installation ;)
 
 ### How to use
-1. Clone this repository to your local directory by navigating to your local directory and typing this line in the command line:
+1. Clone this repository to your local directory by navigating to your local directory by typing this line in the command line:
     `git clone "https://github.com/Rexy-Gamaliel/Cryptarithmetic"`
 2. Configure the equation you want to solve in a .txt file with the following format:
    ```
